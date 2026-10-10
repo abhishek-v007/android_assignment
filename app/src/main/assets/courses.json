@@ -1,0 +1,343 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "Variables & Data Types",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Operators",
+        "completed": true
+      },
+      {
+        "id": 4,
+        "title": "Conditionals",
+        "completed": true
+      },
+      {
+        "id": 5,
+        "title": "Loops",
+        "completed": true
+      },
+      {
+        "id": 6,
+        "title": "Functions",
+        "completed": true
+      },
+      {
+        "id": 7,
+        "title": "Lists",
+        "completed": true
+      },
+      {
+        "id": 8,
+        "title": "Dictionaries",
+        "completed": true
+      },
+      {
+        "id": 9,
+        "title": "Strings",
+        "completed": true
+      },
+      {
+        "id": 10,
+        "title": "File Handling",
+        "completed": true
+      },
+      {
+        "id": 11,
+        "title": "Exceptions",
+        "completed": true
+      },
+      {
+        "id": 12,
+        "title": "Modules",
+        "completed": true
+      },
+      {
+        "id": 13,
+        "title": "Object-Oriented Programming",
+        "completed": true
+      },
+      {
+        "id": 14,
+        "title": "Inheritance",
+        "completed": false
+      },
+      {
+        "id": 15,
+        "title": "Decorators",
+        "completed": false
+      },
+      {
+        "id": 16,
+        "title": "Generators",
+        "completed": false
+      },
+      {
+        "id": 17,
+        "title": "Comprehensions",
+        "completed": false
+      },
+      {
+        "id": 18,
+        "title": "Testing",
+        "completed": false
+      },
+      {
+        "id": 19,
+        "title": "Packages",
+        "completed": false
+      },
+      {
+        "id": 20,
+        "title": "Capstone Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "What Generative AI Is",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Prompts",
+        "completed": true
+      },
+      {
+        "id": 4,
+        "title": "Tokens",
+        "completed": true
+      },
+      {
+        "id": 5,
+        "title": "Transformers",
+        "completed": true
+      },
+      {
+        "id": 6,
+        "title": "Embeddings",
+        "completed": true
+      },
+      {
+        "id": 7,
+        "title": "Retrieval",
+        "completed": false
+      },
+      {
+        "id": 8,
+        "title": "Fine-Tuning",
+        "completed": false
+      },
+      {
+        "id": 9,
+        "title": "Evaluation",
+        "completed": false
+      },
+      {
+        "id": 10,
+        "title": "Safety",
+        "completed": false
+      },
+      {
+        "id": 11,
+        "title": "Agents",
+        "completed": false
+      },
+      {
+        "id": 12,
+        "title": "Tool Use",
+        "completed": false
+      },
+      {
+        "id": 13,
+        "title": "Multimodal Models",
+        "completed": false
+      },
+      {
+        "id": 14,
+        "title": "Deployment",
+        "completed": false
+      },
+      {
+        "id": 15,
+        "title": "Cost and Latency",
+        "completed": false
+      },
+      {
+        "id": 16,
+        "title": "Capstone Project",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "title": "How the Web Works",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "HTML",
+        "completed": true
+      },
+      {
+        "id": 4,
+        "title": "CSS",
+        "completed": true
+      },
+      {
+        "id": 5,
+        "title": "JavaScript Basics",
+        "completed": true
+      },
+      {
+        "id": 6,
+        "title": "The DOM",
+        "completed": true
+      },
+      {
+        "id": 7,
+        "title": "Version Control",
+        "completed": true
+      },
+      {
+        "id": 8,
+        "title": "HTTP",
+        "completed": false
+      },
+      {
+        "id": 9,
+        "title": "REST APIs",
+        "completed": false
+      },
+      {
+        "id": 10,
+        "title": "Databases",
+        "completed": false
+      },
+      {
+        "id": 11,
+        "title": "SQL",
+        "completed": false
+      },
+      {
+        "id": 12,
+        "title": "Authentication",
+        "completed": false
+      },
+      {
+        "id": 13,
+        "title": "Backend Frameworks",
+        "completed": false
+      },
+      {
+        "id": 14,
+        "title": "Routing",
+        "completed": false
+      },
+      {
+        "id": 15,
+        "title": "Templates",
+        "completed": false
+      },
+      {
+        "id": 16,
+        "title": "Forms",
+        "completed": false
+      },
+      {
+        "id": 17,
+        "title": "State Management",
+        "completed": false
+      },
+      {
+        "id": 18,
+        "title": "Frontend Frameworks",
+        "completed": false
+      },
+      {
+        "id": 19,
+        "title": "Components",
+        "completed": false
+      },
+      {
+        "id": 20,
+        "title": "Styling Systems",
+        "completed": false
+      },
+      {
+        "id": 21,
+        "title": "Testing",
+        "completed": false
+      },
+      {
+        "id": 22,
+        "title": "Continuous Integration",
+        "completed": false
+      },
+      {
+        "id": 23,
+        "title": "Containers",
+        "completed": false
+      },
+      {
+        "id": 24,
+        "title": "Deployment",
+        "completed": false
+      },
+      {
+        "id": 25,
+        "title": "Caching",
+        "completed": false
+      },
+      {
+        "id": 26,
+        "title": "Security Basics",
+        "completed": false
+      },
+      {
+        "id": 27,
+        "title": "Monitoring",
+        "completed": false
+      },
+      {
+        "id": 28,
+        "title": "Capstone Project",
+        "completed": false
+      }
+    ]
+  }
+]
